@@ -44,7 +44,7 @@ public class Lex {
         String toR = "toRubles";
         //прохождение по строке
         while (pos < text.length()) {
-            //получение символа
+            //получение символа//
             char c = text.charAt(pos);
             switch (c) {
                 case '(':
