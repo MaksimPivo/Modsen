@@ -33,7 +33,7 @@ public class LexemeBuf {
     }
 
     //Синтаксический анализатор и нужные ему доп методы
-    /*//
+    /*
     Синтаксис
     *  =  {0 .... infinity}
     expr : plusR Eof | plusD Eof
